@@ -71,3 +71,16 @@ margin-left:auto;
   font-size: 1.25em;
   background: #B4DBE5;
 }
+
+.career-interests{
+  padding: 4em 0;
+  background: #EEE;
+}
+
+.career{
+   padding: .5em;
+  font-size: 1.25em;
+  background: #B4DBE5;
+  margin:1em;
+    color:#515251;
+}
