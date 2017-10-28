@@ -64,17 +64,20 @@ margin-left:auto;
   margin: 1em;
   background: #FFF;
   color: #515251;
+    
 }
 
 .div-title {
   padding: 0.5em;
   font-size: 1.25em;
   background: #B4DBE5;
+    text-align: center;
 }
 
 .career-interests{
-  padding: 4em 0;
-  background: #EEE;
+  border:1px;
+    padding: 4em 0;
+  background: #FFF;
 }
 
 .career{
@@ -83,4 +86,5 @@ margin-left:auto;
   background: #B4DBE5;
   margin:1em;
     color:#515251;
+    text-align: center;
 }
